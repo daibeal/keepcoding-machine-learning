@@ -1,4 +1,4 @@
-# Keepcoding Machine Lerning
+# Keepcoding Machine Learning
 Welcome to the Machine Learning Course! In this course, you will learn the fundamentals of machine learning and how to apply these techniques to real-world problems. We will cover a variety of topics, including data preprocessing, linear and logistic regression, neural networks, support vector machines, and decision trees and random forests.
 
 ![machine-learning](https://images.unsplash.com/photo-1504639725590-34d0984388bd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80)
