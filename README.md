@@ -19,6 +19,7 @@ Welcome to the Machine Learning Course! In this course, you will learn the funda
 | `data` | A directory containing the dataset. |
 | `notebooks` | A directory containing the Jupyter notebooks. |
 | `src` | A directory containing the source code. |
+| `slides` | A directory containing theoretical content. |
 ---
 ## Introduction
 
