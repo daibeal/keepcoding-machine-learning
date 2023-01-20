@@ -21,9 +21,13 @@ Welcome to the Machine Learning Course! In this course, you will learn the funda
 | `src` | A directory containing the source code. |
 | `slides` | A directory containing theoretical content. |
 ---
+
 ## Introduction
 
 In this section, we will introduce the basics of machine learning and discuss the types of problems that can be solved using these techniques. We will also cover the steps involved in building a machine learning model, including data collection, feature engineering, model training, and evaluation.
+
+
+# ➡️ [Google Collab](https://colab.research.google.com/drive/1idFmbO9MjwT2SAZTkltEmLKoz9pbOepf?usp=sharing)
 ## Data Preprocessing
 
 Before we can apply machine learning algorithms to a dataset, we often need to preprocess the data to ensure that it is in a suitable format. In this section, we will cover common data preprocessing techniques, such as handling missing values, scaling features, and encoding categorical variables.
