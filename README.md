@@ -17,7 +17,7 @@
 
 ## Introduction
 
-In this section, we will introduce the basics of machine learning and discuss the types of problems that can be solved using these techniques. We will also cover the steps involved in building a machine learning model, including data collection, feature engineering, model training, and evaluation.
+The project has been developed on Google Collab. Please **click on the link below.**
 
 
 # ➡️ [Google Collab](https://colab.research.google.com/drive/1idFmbO9MjwT2SAZTkltEmLKoz9pbOepf?usp=sharing)
